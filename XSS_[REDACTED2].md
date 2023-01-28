@@ -81,5 +81,7 @@ Putting it all together, we get this link:
 ```
 https://[REDACTED2]/.../popupAlert.jsp?locale=i&style=g&txt=\u00c0|img src=x onerror=(alert)(1)\u00c0~
 ```
+
 And... our code executes!
+
 ![](XSS_[REDACTED2].jpg)
